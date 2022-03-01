@@ -1,9 +1,9 @@
 name: 'Mayhem for API gRPC Example'
 on:
   push:
-    branches: [ main ]
+    branches: [ main master ]
   pull_request:
-    branches: [ main ]
+    branches: [ main master ]
 jobs:
   build:
     runs-on: ubuntu-latest
