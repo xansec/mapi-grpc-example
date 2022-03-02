@@ -1,5 +1,10 @@
 # Mayhem for API: gRPC fuzzing example
 
+<<<<<<< HEAD
+=======
+[![Mayhem for API](https://mayhem4api.forallsecure.com/api/v1/api-target/forallsecure/abrewer-mapi-grpc-example/badge/icon.svg?scm_branch=main)](https://mayhem4api.forallsecure.com/forallsecure/abrewer-mapi-grpc-example/latest-job?scm_branch=main)
+
+>>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
 [![Mayhem for API](https://mayhem4api.forallsecure.com/downloads/img/mapi-logo-full-color.svg)](http://mayhem4api.forallsecure.com)
 
 ## About Mayhem for API
@@ -27,4 +32,8 @@ This repo contains a simple gRPC API that is tested by Mayhem for API. The
 [GitHub action, `mapi-action`](https://github.com/forallsecure/mapi-action) is
 used to scan and upload results.
 
+<<<<<<< HEAD
 [👀 See Latest Results...](https://mayhem4api.forallsecure.com/forallsecure/forallsecure-mapi-grpc-example)
+=======
+[👀 See Latest Results...](https://mayhem4api.forallsecure.com/forallsecure/abrewer-mapi-grpc-example)
+>>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
