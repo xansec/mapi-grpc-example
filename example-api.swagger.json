@@ -48,7 +48,6 @@
         ]
       }
     },
-<<<<<<< HEAD
     "/mapi_grpc_example.api.v1.UserService/CheckReservedName": {
       "post": {
         "operationId": "UserService_CheckReservedName",
@@ -81,8 +80,6 @@
         ]
       }
     },
-=======
->>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
     "/mapi_grpc_example.api.v1.UserService/DeleteUser": {
       "post": {
         "operationId": "UserService_DeleteUser",
@@ -188,7 +185,6 @@
       },
       "title": "Add a new user to the database"
     },
-<<<<<<< HEAD
     "v1CheckReservedNameRequest": {
       "type": "object",
       "properties": {
@@ -207,8 +203,6 @@
       },
       "title": "Returns reserved names matching the query"
     },
-=======
->>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
     "v1DeleteUserRequest": {
       "type": "object",
       "properties": {
@@ -256,11 +250,7 @@
           "type": "string"
         }
       },
-<<<<<<< HEAD
       "title": "A user record"
-=======
-      "title": "A user"
->>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
     },
     "v1UsersResult": {
       "type": "object",
@@ -272,11 +262,7 @@
           }
         }
       },
-<<<<<<< HEAD
       "title": "A collection of user records"
-=======
-      "title": "A collection of users"
->>>>>>> 347e87f07ac409247a77891eeaddbd0b1c07bb1c
     }
   }
 }
