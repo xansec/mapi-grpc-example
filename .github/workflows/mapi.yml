@@ -31,7 +31,7 @@ jobs:
         mapi-token: ${{ secrets.MAPI_TOKEN }}
         api-url: http://localhost:8081
         api-spec: example-api.swagger.json
-        target-name: forallsecure/abrewer-mapi-grpc-example
+        target: forallsecure/abrewer-mapi-grpc-example
         sarif-report: mapi.sarif
         html-report: mapi.html
 
