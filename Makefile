@@ -20,7 +20,7 @@ swagger: docker-image
 	docker rm -f $(CONTAINER_NAME)-tmp
 
 .PHONY: run
-run: swagger
+run: 
 	docker rm -f $(CONTAINER_NAME) || true
 	docker run -it --rm -d -p 8081:8081 --name $(CONTAINER_NAME) $(IMAGE_NAME)
 
